@@ -1,0 +1,6 @@
+Dashboard Structure
+Header: Shows the teacher's name and a welcome message.
+Class Overview: Displays a list of classes the teacher handles.
+Attendance Table: Allows marking students as "Present" or "Absent."
+Filters & Date Selector: Options to filter attendance by date or class.
+Summary: Shows statistics like total students, present, and absent count.
